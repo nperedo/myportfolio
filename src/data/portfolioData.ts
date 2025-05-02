@@ -3,7 +3,7 @@ export const personalInfo = {
   title: "SOFTWARE ENGINEER",
   tagline: "I solve real-world problems with code.",
   aboutParagraph: "Hafa Adai, I’m Noah Peredo, a Guam-based web developer crafting apps with Ruby on Rails, and JavaScript. I’m passionate about turning ideas into user-friendly solutions, inspired by our island’s vibrant community. I’m eager to build projects that connect and empower users globally.",
-  profileImage: "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", // TODO: Replace with your profile image URL
+  profileImage: "/IMG_8849.jpg", // TODO: Replace with your profile image URL
   resumeURL: "https://docs.google.com/document/d/1YLunvv2QxeE4mNsVroGIPtyif8-SBAbG0K0txor7Z5o/edit?tab=t.0",
   email: "noahperedo17@gmail.com", // TODO: Replace with your email
   linkedin: "https://linkedin.com/in/noahperedo", // TODO: Replace with your LinkedIn profile URL
@@ -55,7 +55,7 @@ export const projects = [
     title: "DogWebApp",
     description: "An application that generates a picture of a random dog. It has a drop down menu with 4 different breeds.",
     image: "https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    imageAlt: "/Screenshot 2025-05-01 at 8.47.03 PM.png",
+    imageAlt: "",
     technologies: ["html", "css", "javascript"],
     githubUrl: "https://github.com/yourname/budget-cli",
     liveUrl: "",
